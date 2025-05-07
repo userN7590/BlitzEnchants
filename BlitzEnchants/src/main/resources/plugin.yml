@@ -1,0 +1,14 @@
+name: BlitzEnchants
+version: ${project.version}
+main: com.fil.blitzenchants.Main
+api-version: 1.16
+commands:
+  giveblitzbook:
+    description: Gives a Blitz Enchantment book
+    usage: /giveblitzbook <enchantment> <player>
+  blitzenchant:
+    description: Reloads the plugin configuration
+    usage: /blitzenchant reload
+  givecatalyst:
+    description: Gives a Catalyst item
+    usage: /givecatalyst

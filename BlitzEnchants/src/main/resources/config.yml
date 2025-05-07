@@ -1,0 +1,63 @@
+enchantments:
+  sharpness:
+    level: 5
+    priority: 3
+    catalysteffect: +1
+    book_name: "&6Blitz Book | Sharpness"
+    book_lore:
+      - "&7A book infused with sharp power."
+      - "&eDrag onto a weapon to apply."
+    applied_lore: "&5⚔️ Sharpness"
+
+  fire_aspect:
+    level: 2
+    priority: 2
+    catalysteffect: +1
+    book_name: "&6Blitz Book | Fire Aspect"
+    book_lore:
+      - "&7A burning enchantment."
+      - "&eDrag onto a weapon to apply."
+    applied_lore: "&6🔥 Fire Aspect"
+
+  looting:
+    level: 3
+    priority: 1
+    catalysteffect: +1
+    book_name: "&6Blitz Book | Looting"
+    book_lore:
+      - "&bIncreases loot drops."
+      - "&eDrag onto a weapon to apply."
+    applied_lore: "&6% Looting"
+
+  unbreaking:
+    level: 3
+    priority: 5
+    catalysteffect: +2
+    book_name: "&6Blitz Book | Unbreaking"
+    book_lore:
+      - "&7Increases item durability."
+      - "&eDrag onto a tool or armor to apply."
+    applied_lore: "&b🔄 Unbreaking"
+
+  efficiency:
+    level: 5
+    priority: 6
+    catalysteffect: +5
+    book_name: "&6Blitz Book | Efficiency"
+    book_lore:
+      - "&aMine faster with increased efficiency."
+      - "&eDrag onto a tool to apply."
+    applied_lore: "&a⚒ Efficiency"
+
+  protection:
+    level: 3
+    priority: 4
+    catalysteffect: +1
+    book_name: "&6Blitz Book | Protection"
+    book_lore:
+      - "&7Provides general protection."
+      - "&eDrag onto armor to apply."
+    applied_lore: "&c🛡 Protection"
+
+catalyst:
+  single_use: true
